@@ -11,6 +11,4 @@ The script generates a sinc function modulated by a cosine wave, applies a low-p
 - **Signal Generation**: Creates a cosine-modulated sinc signal.
 - **Frequency Analysis**: Computes the Fourier Transform to obtain the frequency spectrum of the signal.
 - **Filtering**: Applies a low-pass filter to isolate low-frequency components.
-- **Visualization**: Plots the magnitude of the original and filtered signals in both frequency and time domains.
-
-## Code Explanation
+- **Visualization**: Plots the magnitude of the original and filtered signals in both frequency and time 
