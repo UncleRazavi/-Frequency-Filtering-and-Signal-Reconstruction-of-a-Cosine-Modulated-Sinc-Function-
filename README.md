@@ -1,6 +1,6 @@
-# Cosine-Modulated Sinc Signal: Filtering and Analysis
+# Filtering and Analysis
 
-This Python script generates, analyzes, and filters a cosine-modulated sinc signal using Fourier Transform techniques. It visualizes both the frequency spectrum and the reconstructed time-domain signal.
+This Python script generates, analyzes, and filters a signal using Fourier Transform techniques. It visualizes both the frequency spectrum and the reconstructed time-domain signal.
 
 ## Overview
 The script creates a sinc function modulated by a cosine wave, applies a low-pass filter to isolate desired frequencies, and reconstructs the filtered signal. Results are displayed in both frequency and time domains for easy analysis.
